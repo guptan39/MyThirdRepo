@@ -3,3 +3,5 @@ tavant
 emids
 altimetrik
 dell emc
+google
+facebook
